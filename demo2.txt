@@ -1,2 +1,6 @@
 hjhkjhjk
+<<<<<<< Updated upstream
 hiiii
+=======
+hi
+>>>>>>> Stashed changes
